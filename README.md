@@ -1,4 +1,4 @@
-# Quiz Game
+# Quiz Game 🔔 🔔
 
 This is the Quiz Game which is Created using Frontend Technology (HTML, Css and Javascript)
 I used Material UI for making UI more intractive and Clean.
